@@ -1,6 +1,6 @@
 # calc-float
 
-  gitHub地址：https://github.com/jiao11/calc-float
+  [gitHub地址](https://github.com/jiao11/calc-float)
 
 ## 特点
   + 轻量级浮点数运算，提供浮点数加、减、乘、除运算的方法，方便使用
